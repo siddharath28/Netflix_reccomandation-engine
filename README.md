@@ -5,7 +5,7 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/96771321/214456292-ef421cff-a59f-46a1-9411-fef980ee6814.gif" width="400"></a>
 </p>
 
-
+View Notebook @ https://github.com/siddharath28/Netflix_reccomandation-engine/blob/main/netflix_recommendation_system.ipynb
 
 
 
